@@ -9,10 +9,11 @@ using System.Windows;
 // kelvin test
 namespace PRA_B4_FOTOKIOSK
 {
+    //Kelvin test repository
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application
     {
     }
-}
+} dfgyhujikl
