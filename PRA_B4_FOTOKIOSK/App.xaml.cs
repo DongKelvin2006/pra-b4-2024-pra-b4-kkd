@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
+// kelvin test
 namespace PRA_B4_FOTOKIOSK
 {
     /// <summary>
