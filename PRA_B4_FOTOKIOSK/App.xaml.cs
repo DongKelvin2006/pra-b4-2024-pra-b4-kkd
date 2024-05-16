@@ -8,6 +8,7 @@ using System.Windows;
 
 namespace PRA_B4_FOTOKIOSK
 {
+    // daan test repository
     //Kim test repository
     /// <summary>
     /// Interaction logic for App.xaml
