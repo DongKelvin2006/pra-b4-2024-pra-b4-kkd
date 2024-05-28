@@ -16,4 +16,4 @@ namespace PRA_B4_FOTOKIOSK
     public partial class App : Application
     {
     }
-} dfgyhujikl
+} 
